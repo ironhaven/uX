@@ -94,7 +94,7 @@ macro_rules! implement_common {
                 $name::MAX
             }
 
-            /// Crates a new variable
+            /// Creates a new variable
             ///
             /// This function mainly exists as there is currently not a better way to construct these types.
             /// May be deprecated or removed if a better way to construct these types becomes available.
